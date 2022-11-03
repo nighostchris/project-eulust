@@ -10,6 +10,7 @@ fn main() {
             Ok(problem_id) => match problem_id {
                 1 => solution::p1::multiples_of_3_or_5(1000),
                 17 => solution::p17::number_letter_counts(),
+                18 => solution::p18::maximum_path_sum_one(),
                 _ => {
                     println!("There is no solution to problem '{}'.", problem_id);
                 }
