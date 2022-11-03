@@ -9,6 +9,7 @@ fn main() {
         match (args[1]).parse::<i32>() {
             Ok(problem_id) => match problem_id {
                 1 => solution::p1::multiples_of_3_or_5(1000),
+                17 => solution::p17::number_letter_counts(),
                 _ => {
                     println!("There is no solution to problem '{}'.", problem_id);
                 }
