@@ -1,0 +1,10 @@
+[package]
+name = "project_eulust"
+version = "0.1.0"
+authors = ["Chris Liu <chrisliupascal@gmail.com>"]
+edition = "2021"
+description = "Solution to Project Euler's problems using Rust"
+repository = "https://github.com/nighostchris/project-eulust.git"
+license = "MIT"
+
+[dependencies]
