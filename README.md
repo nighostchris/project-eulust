@@ -16,3 +16,4 @@ cargo run <problem_id>
 | [Number letter counts](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p17.rs)                             | 03-11-2022  |
 | [Maximum path sum I](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p18.rs)                               | 03-11-2022  |
 | [Even Fibonacci numbers](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p2.rs)                            | 04-11-2022  |
+| [Lattice paths](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p15.rs)                                    | 04-11-2022  |
