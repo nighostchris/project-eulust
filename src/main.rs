@@ -9,6 +9,7 @@ fn main() {
         match (args[1]).parse::<i32>() {
             Ok(problem_id) => match problem_id {
                 1 => solution::p1::multiples_of_3_or_5(1000),
+                2 => solution::p2::even_fibonacci_numbers(4_000_000),
                 17 => solution::p17::number_letter_counts(),
                 18 => solution::p18::maximum_path_sum_one(),
                 _ => {
