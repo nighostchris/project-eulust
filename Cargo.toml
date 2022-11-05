@@ -8,3 +8,4 @@ repository = "https://github.com/nighostchris/project-eulust.git"
 license = "MIT"
 
 [dependencies]
+num-bigint = "0.4.3"

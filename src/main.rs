@@ -14,6 +14,7 @@ fn main() {
                 15 => solution::p15::lattice_paths(20),
                 17 => solution::p17::number_letter_counts(),
                 18 => solution::p18::maximum_path_sum_one(),
+                20 => solution::p20::factorial_digit_sum(100),
                 _ => {
                     println!("There is no solution to problem '{}'.", problem_id);
                 }

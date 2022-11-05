@@ -48,5 +48,8 @@ pub fn largest_product_in_a_series(num: usize) {
         .max()
         .unwrap();
 
-    println!("The {} adjacent digits in the 1000-digit number that have the greatest product: {}", num, max);
+    println!(
+        "The {} adjacent digits in the 1000-digit number that have the greatest product: {}",
+        num, max
+    );
 }

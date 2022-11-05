@@ -18,3 +18,4 @@ cargo run <problem_id>
 | [Even Fibonacci numbers](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p2.rs)                            | 04-11-2022  |
 | [Lattice paths](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p15.rs)                                    | 04-11-2022  |
 | [Largest product in a series](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p8.rs)                       | 05-11-2022  |
+| [Factorial digit sum](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p20.rs)                              | 05-11-2022  |
