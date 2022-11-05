@@ -17,3 +17,4 @@ cargo run <problem_id>
 | [Maximum path sum I](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p18.rs)                               | 03-11-2022  |
 | [Even Fibonacci numbers](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p2.rs)                            | 04-11-2022  |
 | [Lattice paths](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p15.rs)                                    | 04-11-2022  |
+| [Largest product in a series](https://github.com/nighostchris/project-eulust/blob/master/src/solution/p8.rs)                       | 05-11-2022  |

@@ -1,13 +1,3 @@
-// Lattice paths
-
-// from starting point 0
-// -> take either path left or right
-// -> mark the current node as visited
-// -> if reaching [num, num] then return 1
-// -> if no places to go then return 0
-
-// function parameter => (current x, current y, visited node map)
-
 // https://projecteuler.net/problem=15
 
 fn path_finder(x: usize, y: usize, visited_map: Vec<Vec<bool>>, grid_size: usize) -> u64 {
