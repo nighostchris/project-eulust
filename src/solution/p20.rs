@@ -13,5 +13,5 @@ pub fn factorial_digit_sum(num: u32) {
         .map(|character| character.to_digit(10).unwrap())
         .sum();
 
-    println!("Sum of the digits in the number {}!: {:?}", num, sum);
+    println!("Sum of the digits in the number {}!: {}", num, sum);
 }
